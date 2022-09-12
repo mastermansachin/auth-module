@@ -1,0 +1,27 @@
+{
+  "name": "auth-module",
+  "version": "1.0.0",
+  "description": "Advanced auth module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mastermansachin/auth-module.git"
+  },
+  "keywords": [
+    "auth module"
+  ],
+  "author": "Sachin, Lakshya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mastermansachin/auth-module/issues"
+  },
+  "homepage": "https://github.com/mastermansachin/auth-module#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
